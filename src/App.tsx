@@ -1,8 +1,9 @@
-
+import {Button } from "./components";
 function App() {
   return (
     <div>
-      Hello from app1
+      <h3> Hello from app1</h3>
+      <Button />
     </div>
   )
 }
